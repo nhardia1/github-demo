@@ -1,1 +1,3 @@
-TEst GIT quick start
+<?php 
+phpinf();
+?>
